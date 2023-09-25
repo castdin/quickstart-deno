@@ -1,0 +1,8 @@
+{
+	"fmt": {
+		/* While deno docs recommend default options and spaces seem to be more
+    popular than tabs, the argument that tabs are more accessible is compelling.
+    */
+		"useTabs": true
+	}
+}

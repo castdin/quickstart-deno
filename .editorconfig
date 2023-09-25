@@ -1,6 +1,8 @@
 root = true
 
 [*]
+# While space seems to be more popular than tabs, the argument that tabs are  
+# more accessible is compelling
 indent_style = tab
 insert_final_newline = true
 trim_trailing_whitespace = true
